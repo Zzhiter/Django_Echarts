@@ -1,0 +1,2 @@
+# Django_Echarts
+Echarts通过Django连接数据库实现数据可视化
